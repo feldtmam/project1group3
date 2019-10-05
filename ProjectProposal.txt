@@ -1,0 +1,39 @@
+Project Title:
+Data Analyst Job and Educational Opportunities
+
+Team Members:
+Martie Feldtman
+Lauren Chavez
+Jorge Navarro
+James DeCola
+
+Project Description / Outline:
+Using APIs and static datasets, we plan to research job and educational opportunities in the Data Analytics career field.
+
+Research Questions to Answer:
+ - What types of jobs are avail for data analyst?
+ - What skills are required?
+ - What types of salaries are available?
+ - Where are the jobs located?
+ - What industries are looking for data analysts?
+ - How long are these ads posted for / how long does it take for  position to be filled
+ - What educational resources are available?
+ - Are the available courses a good deal financially?
+
+Datasets to be used:
+Indeed API
+Career Builder API
+Kaggle
+Tableau Courseara dataset
+
+Rough breakdown of tasks:
+
+ - Investigate sources
+ - Reduce target list of sources
+ - Collect Data 
+ - Clean data up
+ - Join data from different sources 
+ - Make Graphs
+ - Produce Presentation materials
+ - Present Findings
+
