@@ -10,3 +10,6 @@
 
 * 03 - Technology Job Listings by Skill 
      - https://www.kaggle.com/discdiver/ds-job-listing-technology
+
+* 04 - Kaggle Machine Learning Survey 
+     - https://www.kaggle.com/kaggle/kaggle-survey-2018
