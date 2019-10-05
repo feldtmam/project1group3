@@ -6,7 +6,7 @@
      - https://www.kaggle.com/elroyggj/indeed-dataset-data-scientistanalystengineer
 
 * 02 - Data Science Survey
-     - https://www.kaggle.com/discdiver/ds-job-listing-technology
+     - https://www.kaggle.com/jetbrains/datascience2018/downloads/datascience2018.zip/1
 
 * 03 - Technology Job Listings by Skill 
-     - https://www.kaggle.com/jetbrains/datascience2018/downloads/datascience2018.zip/1
+     - https://www.kaggle.com/discdiver/ds-job-listing-technology
