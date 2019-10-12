@@ -1,0 +1,8 @@
+Project 1 Group 3 : Lauren Chavez
+		    James DeCola
+		    Martie Feldtmann
+                    Jorge Navarro
+
+Project Title: Data Analyst Job and Educational Opportunities
+
+Create a write-up summarizing your major findings. This should include a heading for each "question" you asked of your data, and under each heading, a short description of what you found and any relevant plots.
