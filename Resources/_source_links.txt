@@ -1,6 +1,6 @@
 ## Data Sources Links 
 
-* [Kaggle](https://www.kaggle.com/)
+[Kaggle](https://www.kaggle.com/)
 
 * 01 - Indeed Job Listing for Data Scientist/Analyst/Engineer 
      - https://www.kaggle.com/elroyggj/indeed-dataset-data-scientistanalystengineer
@@ -16,3 +16,9 @@
 
 * 05 - 2017 2018 Kaggle Machine Learning Survey 
      - https://www.kaggle.com/kaggle/kaggle-survey-2017
+
+Data sets too big to upload to Git:
+
+* Stack Overflow Survey 2019: https://drive.google.com/file/d 1QOmVDpd8hcVYqqUXDXf68UMDWQZP0wQV/view?usp=sharing
+
+* Stack Overflow Survey 2018: https://drive.google.com/file/d/1G2qsQm-3uLadQ_1JTgqeLHVUGfBqUgAQ/view?usp=sharing
